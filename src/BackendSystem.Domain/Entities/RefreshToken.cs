@@ -13,7 +13,7 @@ public class RefreshToken
 
     /// <summary>RefreshToken 值</summary>
     public string Token { get; set; } = string.Empty;
-
+    //测试
     /// <summary>过期时间</summary>
     public DateTime ExpireAt { get; set; }
 
