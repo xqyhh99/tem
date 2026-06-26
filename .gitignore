@@ -1,0 +1,22 @@
+## .NET
+bin/
+obj/
+*.pdb
+*.dll
+*.exe
+*.deps.json
+*.runtimeconfig.json
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+## NuGet
+packages/
+*.nupkg
+project.nuget.cache
+
+## Build Output
+*.log
